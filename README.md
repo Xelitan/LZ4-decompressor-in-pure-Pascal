@@ -1,4 +1,4 @@
-# LZ4-decompressor-in-pure-Pascal
+# LZ4 decompressor in pure Pascal
 LZ4 decompressor in pure Pascal. Should work in most Delphi and Lazarus versions. No DLLs required or any non-standard libraries.
 
 ## Usage example
