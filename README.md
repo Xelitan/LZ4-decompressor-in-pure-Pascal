@@ -1,6 +1,9 @@
 # LZ4 decompressor in pure Pascal
 LZ4 decompressor in pure Pascal. Should work in most Delphi and Lazarus versions. No DLLs required or any non-standard libraries.
 
+# This decompressed only handles a subset of LZ4 files
+There is a full decompressor available in my repo.
+
 ## Usage example
 Decoding TBytes:
 ```
